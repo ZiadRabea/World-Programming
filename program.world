@@ -1,0 +1,3 @@
+take 2 inputs from the user and add them to a variable called mysum
+print the variable mysum/2
+loop and print mysum ten times 
