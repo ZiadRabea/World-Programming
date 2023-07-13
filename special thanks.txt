@@ -1,0 +1,4 @@
+ - Special thanks to Dr. Mahmoud Samir Fayed for their valuable guidance and support throughout the development of this project.
+ - Special thanks to Mrs. Fatmanur for their valuable contibution to developing the AI version of WorldLang.
+ - Special thanks to Mrs. Nawfa for their valuable contibution to developing the Indonisian version of WorldLang.
+ - Speacial thanks to every World Developer 
