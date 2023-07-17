@@ -44,7 +44,13 @@
 			"sum": "sum",
 			"max": "max",
             "min": "min",
-            "abs": "abs"
+            "abs": "abs",
+			"str": "str",
+            "load": "load",
+            "save_img": "save_img",
+            "send": "send",
+            "exec": "exec",
+            "listen": "listen"
         }
     ]
 }
