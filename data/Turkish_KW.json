@@ -44,7 +44,13 @@
 			"sum": "toplam",
 			"max": "maksimum",
 			"min": "minimum",
-			"abs": "mutlak_değer"
+			"abs": "mutlak_değer",			
+			"str": "metin",
+            "load": "yük",
+            "save_img": "resmi_kaydet",
+            "send": "göndermek",
+            "exec": "uygulamak",
+            "listen": "dinlemek"
 		}
     ]
 }
