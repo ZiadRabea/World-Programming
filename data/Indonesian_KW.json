@@ -50,7 +50,8 @@
             "save_img": "simpan_foto",
             "send": "mengirim",
             "exec": "menjalankan",
-            "listen": "mendengarkan"
+            "listen": "mendengarkan",
+            "speak": "berbicara"
         }
     ]
 }

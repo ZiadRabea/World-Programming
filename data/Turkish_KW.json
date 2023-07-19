@@ -50,7 +50,8 @@
             "save_img": "resmi_kaydet",
             "send": "göndermek",
             "exec": "uygulamak",
-            "listen": "dinlemek"
+            "listen": "dinlemek",
+            "speak": "konuşmak"
 		}
     ]
 }
