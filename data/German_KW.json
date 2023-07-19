@@ -50,7 +50,8 @@
             "save_img": "bild_speichern",
             "send": "schicken",
             "exec": "ausführen",
-            "listen": "hören"
+            "listen": "hören",
+            "speak": "sprechen"
         }
     ]
 }

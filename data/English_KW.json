@@ -50,7 +50,8 @@
             "save_img": "save_img",
             "send": "send",
             "exec": "exec",
-            "listen": "listen"
+            "listen": "listen",
+            "speak": "speak"
         }
     ]
 }
