@@ -3,4 +3,5 @@
  - Special thanks to Mrs. Nawfa for their valuable contibution to developing the Indonisian version of WorldLang.
  - Special thanks to Mr. Abdullah for their valuable contribution in worldlang community 
  - Special thanks to Mrs. Arwa for their valuable contribution in worldlang community
+ - Special thanks to Mrs. Soundous for their valuable contribution adding the French language to World
  - Special thanks to every World Developer
