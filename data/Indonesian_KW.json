@@ -24,6 +24,7 @@
             "is_int": "adalah_nomor",
             "is_str": "adalah_teks",
             "is_lst": "adalah_daftar",
+            "is_dict": "adalah_kamus",
             "is_func": "adalah_melakukan",
             "int": "nomor",
             "float": "angka_desimal",
@@ -51,7 +52,9 @@
             "send": "mengirim",
             "exec": "menjalankan",
             "listen": "mendengarkan",
-            "speak": "berbicara"
+            "speak": "berbicara",
+            "eval": "pekerjaan",
+            "sleep": "tidur"
         }
     ]
 }
