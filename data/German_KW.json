@@ -21,14 +21,15 @@
             "print": "drucken",
             "input": "eingang",
             "int_input": "ganzzahleingabe",
-            "int": "ganze_Zahl",
+            "int": "ganze_zahl",
             "float": "schweben",
             "Expected": "erwartet",
             "identifier": "kennung",
-            "is_int": "ist_Ganzzahl",
-            "is_str": "ist_String",
-            "is_lst": "ist_die_Liste",
-            "is_func": "ist_Funktion",
+            "is_int": "ist_ganzzahl",
+            "is_str": "ist_string",
+            "is_lst": "ist_die_diste",
+            "is_dict": "ist_die_dict",
+            "is_func": "ist_funktion",
             "null": "null",
             "true": "STIMMT",
             "false": "FALSCH",
@@ -51,7 +52,9 @@
             "send": "schicken",
             "exec": "ausführen",
             "listen": "hören",
-            "speak": "sprechen"
+            "speak": "sprechen",
+            "eval": "anstellung",
+            "sleep": "schlafen"
         }
     ]
 }

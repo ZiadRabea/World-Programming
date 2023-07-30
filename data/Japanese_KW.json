@@ -28,6 +28,7 @@
             "is_int": "\u3059\u3046\u304b\u30c1\u30a7\u30c3\u30af",
             "is_str": "\u3082\u3058\u30ec\u30d9\u30eb\u30c1\u30a7\u30c3\u30af",
             "is_lst": "\u30ea\u30b9\u30c8\u30c1\u30a7\u30c3\u30af",
+            "is_dict": " いずどくと",
             "is_func": "\u304b\u3093\u3059\u3046\u30c1\u30a7\u30c3\u30af",
             "null": "\u304b\u3089",
             "true": "\u306f\u3044",
@@ -51,7 +52,9 @@
             "send": "おくる",
             "exec": "じっこうする",
             "listen": "きく",
-            "speak": "はなす"
+            "speak": "はなす",
+			"eval" : "こよう",
+			"sleep" : "ねる"
         }
     ]
 }

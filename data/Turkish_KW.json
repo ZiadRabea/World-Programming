@@ -24,6 +24,7 @@
             "is_int": "numara_mı",
             "is_str": "metin_mi",
             "is_lst": "liste_mi",
+            "is_dict": "sözlük_mü",
             "is_func": "is_func",
             "int": "numara",
             "float": "ondalık",
@@ -51,7 +52,9 @@
             "send": "göndermek",
             "exec": "uygulamak",
             "listen": "dinlemek",
-            "speak": "konuşmak"
+            "speak": "konuşmak",
+            "eval": "iş",
+			"sleep": "uyumak"
 		}
     ]
 }
