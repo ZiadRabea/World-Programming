@@ -54,7 +54,10 @@
             "listen": "きく",
             "speak": "はなす",
 			"eval" : "こよう",
-			"sleep" : "ねる"
+			"sleep" : "ねる",
+			"to_string": "へんすうをすとりんぐに",
+			"keys": "かぎ",
+			"abspath": "ぜったいぱす"
         }
     ]
 }

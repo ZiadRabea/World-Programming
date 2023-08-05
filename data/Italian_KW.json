@@ -54,7 +54,10 @@
 			"listen": "ascolta",
 			"speak": "parla",
 			"eval": "valuta",
-			"sleep": "dormi"
+			"sleep": "dormi",
+			"to_string": "a_cadena",
+			"keys": "claves",
+			"abspath": "ruta_absoluta"
 		}
 	]
 }

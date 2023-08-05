@@ -54,7 +54,10 @@
 			"listen": "ouvir",
 			"speak": "falar",
 			"eval": "avaliar",
-			"sleep": "esperar"
+			"sleep": "esperar",
+			"to_string": "para_string",
+			"keys": "chaves",
+			"abspath": "caminho_absoluto"
 		}
 	]
 }

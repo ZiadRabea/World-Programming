@@ -54,7 +54,10 @@
 			"listen": "escuchar",
 			"speak": "hablar",
 			"eval": "evaluar",
-			"sleep": "esperar"
+			"sleep": "esperar",
+			"to_string": "a_stringa",
+			"keys": "chiavi",
+			"abspath": "percorso_assoluto"
 		}
 	]
 }

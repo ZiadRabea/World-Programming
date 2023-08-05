@@ -54,7 +54,10 @@
             "listen": "listen",
             "speak": "speak",
 			"eval": "eval",
-			"sleep": "sleep"
+			"sleep": "sleep",
+			"to_string": "to_string",
+			"keys": "keys",
+			"abspath": "abspath"
         }
     ]
 }

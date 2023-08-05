@@ -54,7 +54,10 @@
             "listen": "dinlemek",
             "speak": "konuşmak",
             "eval": "iş",
-			"sleep": "uyumak"
+			"sleep": "uyumak",
+			"to_string": "dize_dönüştür",
+			"keys": "anahtarlar",
+			"abspath": "mutlak_yol"
 		}
     ]
 }

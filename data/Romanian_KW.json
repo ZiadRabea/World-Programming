@@ -54,7 +54,10 @@
 			"listen": "asculta",
 			"speak": "vorbeste",
 			"eval": "evalueaza",
-			"sleep": "asteapta"
+			"sleep": "asteapta",
+			"to_string": "la_string",
+			"keys": "chei",
+			"abspath": "cale_absolută"
 		}
 	]
 }

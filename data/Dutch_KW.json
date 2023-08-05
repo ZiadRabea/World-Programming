@@ -54,7 +54,10 @@
 			"listen": "luister",
 			"speak": "spreken",
 			"eval": "evalueren",
-			"sleep": "slapen"
+			"sleep": "slapen",
+			"to_string": "naar_tekenreeks",
+			"keys": "sleutels",
+			"abspath": "absoluut_pad"
 		}
 	]
 }
