@@ -54,7 +54,10 @@
             "listen": "mendengarkan",
             "speak": "berbicara",
             "eval": "pekerjaan",
-            "sleep": "tidur"
+            "sleep": "tidur",
+			"to_string": "menjadi_string",
+			"keys": "kunci",
+			"abspath": "jalur_mutlak"
         }
     ]
 }

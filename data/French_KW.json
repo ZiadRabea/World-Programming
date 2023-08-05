@@ -54,7 +54,10 @@
 			"listen": "écouter",
 			"speak": "parler",
 			"eval": "éval",
-			"sleep": "sommeil"
+			"sleep": "sommeil",
+			"to_string": "en_chaîne",
+			"keys": "clés",
+			"abspath": "chemin_absolu"
 		}
 	]
 }

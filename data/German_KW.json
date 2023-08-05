@@ -54,7 +54,10 @@
             "listen": "hören",
             "speak": "sprechen",
             "eval": "anstellung",
-            "sleep": "schlafen"
+            "sleep": "schlafen",
+			"to_string": "bespannen",
+            "keys": "schlüssel",
+            "abspath": "absoluter_pfad"
         }
     ]
 }
