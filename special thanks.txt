@@ -1,0 +1,11 @@
+ - Special thanks to Dr. Mahmoud Samir Fayed for their valuable guidance and support throughout the development of this project.
+ - Special thanks to Mr. Ahmed Ali, the teacher who actually helped me discover myself and changed my life.
+ - Special thanks to Mr. Mohammed Wael (World Language website developer 
+ - Special thanks to Miss. Fatmanur for their valuable contibution to develope the AI version of WorldLang.
+ - Special thanks to Miss. Nawfa for their valuable contibution developing the Indonisian version of WorldLang.
+ - Special thanks to Mr. Abdullah for their valuable contribution in worldlang community 
+ - Special thanks to Miss. Arwa for their valuable contribution in worldlang community
+ - Special thanks to Miss. Soundous for their valuable contribution adding the French language to World
+ - Special thanks to Mr. Mohammed lchgr for their valuable contribution in worldlang community
+ - Special thanks to Mr. Gamal Khalid for their valuable contribution creating the linux varsion of worldlanguage
+ - Special thanks to every World Developer

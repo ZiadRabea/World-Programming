@@ -1,0 +1,9 @@
+{
+    "settings": [
+        {
+            "tok_count": 100,
+            "model": "gpt-3.5-turbo",
+            "api-key": "your-api-key"
+        }
+    ]
+}
