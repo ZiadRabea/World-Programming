@@ -1,0 +1,6 @@
+*.py
+*jpg
+__pycache__/
+.git/
+tests/
+*.exe
