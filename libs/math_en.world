@@ -1,0 +1,39 @@
+func remainder(number, base)
+	# متغيرات and ثوابت
+	var threshold = 0.000001 
+	var max_iteration = 100
+	var min_ = 0.0
+	var max_ = 1.0
+	var mean_ = (min_ + max_)/2
+	
+	from ا = 0 to max_iteration do
+		var value = base ^ mean_
+
+		if abs(value) <= threshold  do return mean_
+		
+		if value > number do 
+			var max_ = mean_
+		else 
+			var min_ = mean_
+		end
+		
+		var mean_ = (min_ + max_)/2
+	end
+	return mean_
+end
+
+func log(base, number)
+#	
+#	#تفادي حالات حدوث الخطأ
+#	
+	if base < 1 do print("erro : undefined base for the logarithm")
+	if number < 1 do print("error : undefined number for the logrithm")
+	var result = 0	
+	# المنطق
+	while number >= base do 
+		var number = number/base
+		var result = result + 1
+	end
+	if number != 1 do var result = result + remainder(number, base)
+	return result
+end
