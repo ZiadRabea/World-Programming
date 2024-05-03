@@ -62,7 +62,7 @@
             "write": "tulis",
             "click": "klik",
             "mouse_location": "lokasi_mouse",
-            "set_locatoin": "atur_lokasi",
+            "set_location": "atur_lokasi",
             "press": "tekan"
         }
     ]

@@ -62,7 +62,7 @@
             "write": "yazmak",
             "click": "tıkla",
             "mouse_location": "fare_konumu",
-            "set_locatoin": "konum_ayarla",
+            "set_location": "konum_ayarla",
             "press": "bas"
 		}
     ]

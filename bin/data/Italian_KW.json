@@ -62,7 +62,7 @@
 			"write": "scrivi",
 			"click": "clicca",
 			"mouse_location": "posizione_del_mouse",
-			"set_locatoin": "imposta_posizione",
+			"set_location": "imposta_posizione",
 			"press": "premi"
 		}
 	]

@@ -62,7 +62,7 @@
             "write": "write",
             "click": "click",
             "mouse_location": "mouse_location",
-            "set_locatoin": "set_location",
+            "set_location": "set_location",
             "press": "press"
         }
     ]

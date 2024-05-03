@@ -62,7 +62,7 @@
 			"write": "escrever",
 			"click": "clicar",
 			"mouse_location": "localização_do_mouse",
-			"set_locatoin": "definir_localização",
+			"set_location": "definir_localização",
 			"press": "pressionar"
 		}
 	]
