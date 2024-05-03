@@ -62,7 +62,7 @@
 			"write": "typen",
 			"click": "klik",
 			"mouse_location": "muiscursor_locatie",
-			"set_locatoin": "stel_locatie_in",
+			"set_location": "stel_locatie_in",
 			"press": "druk"
 		}
 	]

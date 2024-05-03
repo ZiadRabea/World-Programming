@@ -62,7 +62,7 @@
 			"write": "scrie",
 			"click": "clic",
 			"mouse_location": "poziția_cursorului",
-			"set_locatoin": "setează_poziția",
+			"set_location": "setează_poziția",
 			"press": "apeasă"
 		}
 	]

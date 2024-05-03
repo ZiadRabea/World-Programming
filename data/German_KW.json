@@ -62,7 +62,7 @@
             "write": "schreiben",
             "click": "klicken",
             "mouse_location": "maus_position",
-            "set_locatoin": "position_setzen",
+            "set_location": "position_setzen",
             "press": "drücken"        
         }
     ]

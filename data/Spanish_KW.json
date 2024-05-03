@@ -62,7 +62,7 @@
 			"write": "mecanografiar",
 			"click": "hacer clic",
 			"mouse_location": "ubicación_del_ratón",
-			"set_locatoin": "establecer_ubicación",
+			"set_location": "establecer_ubicación",
 			"press": "presionar"
 		}
 	]
