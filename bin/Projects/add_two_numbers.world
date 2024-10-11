@@ -1,0 +1,9 @@
+طباعة("A program to add 2 numbers : ")
+طباعة ("Enter the first number :  ")
+متغير ا = استقبل_رقم()
+طباعة ("Enter the second number : ")
+متغير ب = استقبل_رقم()
+
+طباعة("_____________________")
+طباعة("Sum : ")
+طباعة (ا + ب)
